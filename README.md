@@ -1,4 +1,4 @@
-“Driving school management system,Demo version” has been design to avail the registry process in any
+“Driving school management system, DEMO version” has been design to avail the registry process in any
 Driving school around the globe and assert the applicability of C++ coding in problem solving
 and in automated systems.
 
